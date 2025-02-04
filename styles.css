@@ -1,0 +1,14 @@
+body {
+    background-color: #56656e;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1 {
+    color: #8ea083;
+    font-size: 2em;
+    margin-top: 50px;
+}
+
+p {
+    color: rgb(33, 71, 52);
+}
